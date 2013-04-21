@@ -4,7 +4,7 @@ table tennis scoreboard app
 
 This app for android provides a scoreboard for table tennis referees. It provides means to display the score or use the app on a remote device. Later plans include a tournament manager that uses the scoreboard for single games.
 
-See [Wiki](tt-scoreboard/wiki/Home) for more information.
+See [Wiki](../../wiki) for more information.
 
 ## Planned features
 
